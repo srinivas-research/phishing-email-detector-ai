@@ -100,6 +100,18 @@ The project includes:
 - Email Threat Detection
 
 ---
+---
+
+## Project Visualizations
+
+### Confusion Matrix
+![Confusion Matrix](data/images/confusion_matrix.png)
+
+### Accuracy Comparison
+![Accuracy Comparison](data/images/accuracy_comparison.png)
+
+### Prediction Demo
+![Prediction Demo](data/images/prediction_demo.png)
 
 ## Author
 
