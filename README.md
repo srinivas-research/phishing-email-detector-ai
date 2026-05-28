@@ -113,6 +113,20 @@ The project includes:
 ### Prediction Demo
 ![Prediction Demo](data/images/prediction_demo.png)
 
+## Web Application Demo
+
+### Phishing Email Prediction
+
+![Phishing Prediction](data/images/phishing_prediction.png)
+
+### Legitimate Email Prediction
+
+![Legitimate Prediction](data/images/legitimate_prediction.png)
+
+### Flask Application Running
+
+![Flask Running](data/images/flask_running.png)
+
 ## Author
 
 Srinivas Thota
